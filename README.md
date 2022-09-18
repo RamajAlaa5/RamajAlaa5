@@ -6,9 +6,9 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working as a **[Teaching Assistant]**
+- 🔭 I’m currently working as a Teaching Assistant
 
-- 👨‍💻 I'm an open source web developer  **[Graduated from the ITI intake 42]()**
+- 👨‍💻 I'm an open source web developer Graduated from the ITI intake 42
 
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/dina-alaa-92153018a/">
@@ -74,11 +74,8 @@
 <p align="left">
 
 <a href = "https://www.linkedin.com/in/ramaj-alaa-16a02a189/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://www.facebook.com/profile.php?id=100005294343072"><img src="https://img.icons8.com/fluent/48/000000/facebook.png"/></a>
 
 </p>
 
-## ❤ Views and Followers
-<!-- <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=SubhamRaoniar28">
-</a> -->
-<a href="https://github.com/RamajAlaa5?tab=followers"><img src="https://img.shields.io/github/followers/SubhamRaoniar28?label=Followers&style=social" alt="GitHub Badge"></a>
+
