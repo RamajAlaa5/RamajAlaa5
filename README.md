@@ -1,4 +1,4 @@
-<a href="#"><img width="100%" height="auto" src="https://giphy.com/stickers/transparent-iGqEXTSFZb29gb46bj" height="175px"/></a>
+<a href="#"><img width="100%" height="auto" src="https://media.giphy.com/media/iGqEXTSFZb29gb46bj/giphy.gif" height="175px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Ramaj</h1>
 <h3 align="center">I'm a Software Engineer and Teaching Assistant of software engineering.</h3>
@@ -66,7 +66,6 @@
 <br/>
 <br/>
 
-<a href="https://github.com/SubhamRaoniar28/github-readme-activity-graph"><img alt="Ramaj Alaa's  Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=SubhamRaoniar28&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
 <br/>
