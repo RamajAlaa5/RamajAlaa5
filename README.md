@@ -1,4 +1,4 @@
-<a href="#"><img width="175px" height="auto" src="https://media.giphy.com/media/iGqEXTSFZb29gb46bj/giphy.gif" height="172px" text-align="center"/></a>
+<a href="#"><img width="175px" height="auto" src="https://media.giphy.com/media/iGqEXTSFZb29gb46bj/giphy.gif" height="172px" margin-left="auto" margin-right="auto"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Ramaj</h1>
 <h3 align="center">I'm a Software Engineer and Teaching Assistant of software engineering.</h3>
