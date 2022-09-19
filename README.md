@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working as a Teaching Assistant
 
-- 👨‍💻 I'm an open source web developer Graduated from the ITI intake 42
+- 👨‍💻 I'm a Software Engineer Graduated from the ITI intake 42
 
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/dina-alaa-92153018a/">
